@@ -1,0 +1,6 @@
+public class Pet{
+    //class vars (name, weight)
+
+
+    //class methods (feed, play, rest)
+}
