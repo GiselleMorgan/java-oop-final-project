@@ -1,3 +1,6 @@
 public class Main{
-    //this is a comment
+
+    PetApp myApp = new PetApp; 
+    //make an instance of our pet app
+    
 }

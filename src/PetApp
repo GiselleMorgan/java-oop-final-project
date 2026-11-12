@@ -1,0 +1,6 @@
+public class PetApp{
+    //welcome message
+    System.out.println("Welcome to our Pet App!");
+    
+
+}
